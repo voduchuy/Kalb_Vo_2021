@@ -1,0 +1,1 @@
+from .mpi4pygmo import *
