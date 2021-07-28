@@ -2,8 +2,8 @@
 
 This repository contains the code used for the data modeling and analysis presented in the publication
 
-Daniel Kalb, Huy D Vo, Samantha Adikari, Elizabeth Hong-Geller, Brian Munsky, James Werner. Visualization and Modeling of Inhibition of IL-1β and TNFα mRNA Transcription at the Single-Cell Level. _Scientific Reports_ 11, 2021. 
-DOI: [https://doi.org/10.1038/s41598-021-92846-0](https://doi.org/10.1038/s41598-021-92846-0)
+>Daniel Kalb, Huy D Vo, Samantha Adikari, Elizabeth Hong-Geller, Brian Munsky, James Werner. Visualization and Modeling of Inhibition of IL-1β and TNFα mRNA Transcription at the Single-Cell Level. _Scientific Reports_ 11, 2021. 
+>DOI: [https://doi.org/10.1038/s41598-021-92846-0](https://doi.org/10.1038/s41598-021-92846-0)
 
 ## Dependencies
 
