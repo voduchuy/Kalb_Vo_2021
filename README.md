@@ -18,8 +18,8 @@ For conducting the parameter fitting tasks:
 - SciPy.
 - [PyGMO 2](https://esa.github.io/pygmo2/).
 - [MPI for Python 2+](https://mpi4py.readthedocs.io/en/stable/).
-- [PACMENSL](https://github.com/voduchuy/pacmensl).
-- [PyPACMESL](https://github.com/voduchuy/pypacmensl).
+- [PACMENSL v 0.0.0](https://github.com/voduchuy/pacmensl/releases/tag/v0.0.0).
+- [PyPACMESL v 0.0.0](https://github.com/voduchuy/pypacmensl/releases/tag/0.0.0).
 
 ## Directory structure
 - `data` contains the smFISH measurements of IL-1b and TNF-a transcriptions in response to LPS over 4 experimental conditions (No treatment, MG132, U0126, MG132+U0126).
